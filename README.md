@@ -57,3 +57,10 @@ nodemen: 监听文件变化,自动重启服务
 "start:node": "node src/index.js",
 3. 通过增加nodemon.json配置， 置顶，特定 watch 的文件
 ```
+
+## dome3
+
+```
+1.介绍express已经使用
+
+```
